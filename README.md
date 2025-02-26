@@ -87,11 +87,3 @@ We'd love to see what you create with PromptLab! Share your projects in our [Dis
 ## 📄 License
 
 PromptLab is MIT licensed.
-
----
-
-## 📄 License
-
-PromptLab is MIT licensed.
-
----
