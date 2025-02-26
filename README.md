@@ -62,8 +62,9 @@ Skip the setup - try our hosted version for instant LLM debugging: [Try it now](
 
 ## 👥 Team
 
-- [Norm](https://x.com/ordinary_kaizen) - Founder
+- [Norm](https://x.com/ordinary_kaizen) - Co-Founder
 - [Akbar (Jon)](https://x.com/Akbar_Erkinov) - Co-founder
+- [Nurillokh](https://www.linkedin.com/in/nurillokh-abdurasulov-116658199/) - Co-founder
 
 ## 🗺️ Roadmap
 
