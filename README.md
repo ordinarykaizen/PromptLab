@@ -1,9 +1,11 @@
 # <img src="https://raw.githubusercontent.com/ordinarykaizen/PromptLab/main/assets/PromptLab (1).png" alt="PromptLab" width="30" height="30" style="vertical-align: middle;"> PromptLab
 
-[![GitHub stars](https://img.shields.io/github/stars/ordinarykaizen/PromptLab?style=social)](https://github.com/ordinarykaizen/PromptLab/stargazers)
-[![Discord](https://img.shields.io/discord/1234567890?label=Discord&logo=discord&logoColor=white&style=flat-square)](https://discord.com/invite/9YYEPceY)
-[![Twitter Follow](https://img.shields.io/twitter/follow/trypromptlab?style=social)](https://x.com/trypromptlab)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ordinarykaizen/PromptLab/blob/main/LICENSE)
+<p align="center">
+  <a href="https://github.com/ordinarykaizen/PromptLab/stargazers"><img src="https://img.shields.io/github/stars/ordinarykaizen/PromptLab?style=social" alt="GitHub stars"></a>
+  <a href="https://discord.com/invite/9YYEPceY"><img src="https://img.shields.io/discord/1234567890?label=Discord&logo=discord&logoColor=white&style=flat-square" alt="Discord"></a>
+  <a href="https://x.com/trypromptlab"><img src="https://img.shields.io/twitter/follow/trypromptlab?style=social" alt="Twitter Follow"></a>
+  <a href="https://github.com/ordinarykaizen/PromptLab/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
+</p>
 
 ## 🤖 Enable LLM Observability, Testing & Debugging
 
