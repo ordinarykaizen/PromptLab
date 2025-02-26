@@ -88,3 +88,5 @@ We'd love to see what you create with PromptLab! Share your projects in our [Dis
 ## 📄 License
 
 PromptLab is MIT licensed.
+
+<p align="center">Made with ❤️ in Tashkent and San Francisco</p>
