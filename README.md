@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ordinarykaizen/PromptLab/main/logo.png" alt="PromptLab" width="30" height="30" style="vertical-align: middle;"> PromptLab
+# <img src="https://raw.githubusercontent.com/ordinarykaizen/PromptLab/main/assets/PromptLab (1).png" alt="PromptLab" width="30" height="30" style="vertical-align: middle;"> PromptLab
 
 [![GitHub stars](https://img.shields.io/github/stars/ordinarykaizen/PromptLab?style=social)](https://github.com/ordinarykaizen/PromptLab/stargazers)
 [![Discord](https://img.shields.io/discord/1234567890?label=Discord&logo=discord&logoColor=white&style=flat-square)](https://discord.com/invite/9YYEPceY)
@@ -65,9 +65,30 @@ Skip the setup - try our hosted version for instant LLM debugging: [Try it now](
 - [Norm](https://x.com/ordinary_kaizen) - Founder
 - [Akbar (Jon)](https://x.com/Akbar_Erkinov) - Co-founder
 
+## 🗺️ Roadmap
+
+| Timeline | Feature | Status |
+|----------|---------|--------|
+| Q1 2025 | Core Observability Pipeline | ✅ Complete |
+| Q1 2025 | Multi-model Support (OpenAI, Anthropic, etc.) | ✅ Complete |
+| Q2 2025 | Advanced Prompt Templates | 🚧 In Progress |
+| Q2 2025 | Team Collaboration Features | 🚧 In Progress |
+| Q3 2025 | CI/CD Integration | 📅 Planned |
+| Q3 2025 | Custom Evaluation Metrics | 📅 Planned |
+| Q4 2025 | Fine-tuning Workflow Management | 📅 Planned |
+| Q4 2025 | Enterprise SSO & Advanced Security | 📅 Planned |
+
+> See our [project board](https://github.com/ordinarykaizen/PromptLab/projects) for detailed development status
+
 ## 🤝 Contributing
 
 We'd love to see what you create with PromptLab! Share your projects in our [Discord community](https://discord.com/invite/9YYEPceY).
+
+## 📄 License
+
+PromptLab is MIT licensed.
+
+---
 
 ## 📄 License
 
