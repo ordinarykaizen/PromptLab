@@ -1,5 +1,7 @@
-# <img src="https://raw.githubusercontent.com/ordinarykaizen/PromptLab/main/assets/PromptLab (1).png" alt="PromptLab" width="30" height="30" style="vertical-align: middle;"> PromptLab
 
+<p align="center">
+  # <img src="https://raw.githubusercontent.com/ordinarykaizen/PromptLab/main/assets/PromptLab (1).png" alt="PromptLab" width="30" height="30" style="vertical-align: middle;"> PromptLab
+</p>
 <p align="center">
   <a href="https://github.com/ordinarykaizen/PromptLab/stargazers"><img src="https://img.shields.io/github/stars/ordinarykaizen/PromptLab?style=social" alt="GitHub stars"></a>
   <a href="https://discord.com/invite/9YYEPceY"><img src="https://img.shields.io/discord/1234567890?label=Discord&logo=discord&logoColor=white&style=flat-square" alt="Discord"></a>
